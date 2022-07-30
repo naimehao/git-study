@@ -6,4 +6,5 @@ console.log("feature1 new func")
 function a1() {
 
     console.log("a1 func coding...")
+
 }
