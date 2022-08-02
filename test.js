@@ -8,3 +8,7 @@ function a1() {
     console.log("a1 func coding...")
 
 }
+
+function branch_main() {
+    console.log("branch_main")
+}
