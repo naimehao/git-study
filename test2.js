@@ -8,6 +8,7 @@ function a1() {
     console.log("a1 func coding...2")
     console.log("push0")
     console.log("push1")
+    console.log("push2")
 
 }
 
