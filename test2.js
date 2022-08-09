@@ -10,5 +10,4 @@ function a1() {
 }
 
 function branch_main() {
-    console.log("branch_main1")
 }
